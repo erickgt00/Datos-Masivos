@@ -12,4 +12,4 @@ Aqui se desglosaran las prácticas en clase y tareas
 
 > [Práctica 5: Predicción del Precio de Microsoft](https://github.com/erickgt00/Datos-Masivos/blob/main/Practicas/Prediccion_Microsoft.ipynb) 
 
-> [Proyecto Final: Predicción de Inflación en México](https://github.com/erickgt00/Datos-Masivos/blob/main/ProyectoFinal.ipynb)
+> [Proyecto Final: Predicción de Inflación en México](https://github.com/erickgt00/Datos-Masivos/blob/main/Practicas/ProyectoFinal.ipynb)
